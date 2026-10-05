@@ -1,5 +1,3 @@
-// Validasi (Melly)
-
 // Selektor
 const form = document.querySelector("#formDaftar");
 const inputNama = document.querySelector("#nama");
